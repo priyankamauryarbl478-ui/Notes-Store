@@ -1,2 +1,20 @@
-# Notes-Store
-Developed a Notes Store web application using React JS that allows users to upload, search, and download study materials. Implemented authentication, API integration using Axios, and responsive UI design. Structured components efficiently with React Hooks and state management for better performance.
+# 📝 Notes Store App
+
+A simple and responsive Notes Store application built using React JS.  
+Users can add, delete, and manage their notes easily.
+
+ 🚀 Features
+
+- ➕ Add New Notes
+- 🗑️ Delete Notes
+- ✏️ Edit Notes (if added)
+- 🔍 Search Notes (if added)
+- 💾 Data saved in LocalStorage
+- 📱 Responsive Design
+
+ 🛠️ Technologies Used
+
+- React JS
+- JavaScript (ES6)
+- HTML5
+- CSS3
